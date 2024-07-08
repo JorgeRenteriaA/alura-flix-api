@@ -1,131 +1,106 @@
-{
-    "videos":[
-    {
-        "id":"1",
-        "title":"Cuándo usar let, var y const? #AluraMás",
-        "enlace":"https://www.youtube.com/watch?v=PztCEdIJITY&t=6s",
-        "categoria":{
-            "nombre":"frontend",
-            "color":"#6BD1FF"
-        }
-    },
-    {
-        "id":"2",
-        "title":"¿Qué es JavaScript?",
-        "enlace":"https://www.youtube.com/watch?v=GJfOSoaXk4s",
-        "categoria":{
-           "nombre":"frontend",
-            "color":"#6BD1FF"
-        }
-    },
-    {
-        "id":"3",
-        "title":"💛Curso de desarrollo frontend desde cero",
-        "enlace":"https://www.youtube.com/watch?v=Aikuakl3i8A",
-        "categoria":{
-            "nombre":"frontend",
-            "color":"#6BD1FF"
-        }
-    },
-    {
-        "id":"4",
-        "title":"¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
-        "enlace":"https://www.youtube.com/watch?v=MXPhyN5t0uQ",
-        "categoria":{
-            "nombre":"frontend",
-            "color":"#6BD1FF"
-        }
-    },
-    {
-        "id":"5",
-        "title":"¿Por qué utilizar React?",
-        "enlace":"https://www.youtube.com/watch?v=MnBNPA45NW8",
-        "categoria":{
-            "nombre":"frontend",
-            "color":"#6BD1FF"
-        }
-    },
-    {
-        "id":"6",
-        "title":"Explorando el poder del Back-End en el Desarrollo Web",
-        "enlace":"https://www.youtube.com/watch?v=Z024LSCMqFk",
-        "categoria":{
-            "nombre":"backend",
-            "color":"#00C86F"
-        }
-    },
-    {
-        "id":"7",
-        "title":"https://www.youtube.com/watch?v=t-iqt1b2qqk",
-        "enlace":"https://www.youtube.com/watch?v=t-iqt1b2qqk",
-        "categoria":{
-            "nombre":"backend",
-            "color":"#00C86F"
-        }
-    },
-    {
-        "id":"8",
-        "title":"¿Por qué utilizar Java actualmente?",
-        "enlace":"https://www.youtube.com/watch?v=3kNuK-XAHEY",
-        "categoria":{
-            "nombre":"backend",
-            "color":"#00C86F"
-        }
-    },
-    {
-        "id":"9",
-        "title":"La magia detrás de Java #aluramás",
-        "enlace":"https://www.youtube.com/watch?v=GrEO8nZzyZM",
-        "categoria":{
-            "nombre":"backend",
-            "color":"#00C86F"
-        }
-    },
-    {
-        "id":"10",
-        "title":"Simplificando tu código en Java: Conoce los enum #AluraMás",
-        "enlace":"https://www.youtube.com/watch?v=EoPvlE85XAQ",
-        "categoria":{
-            "nombre":"backend",
-            "color":"#00C86F"
-        }
-    },
-    {
-        "id":"11",
-        "title":"¿Qué son las Soft Skills?",
-        "enlace":"https://www.youtube.com/watch?v=vhwspfvI52k",
-        "categoria":{
-            "nombre":"inovaccion",
-            "color":"FFBA05"
-        }
-    },
-    {
-        "id":"12",
-        "title":"7 Soft Skills más deseadas por las empresas #AluraMás",
-        "enlace":"https://www.youtube.com/watch?v=YhR7Zp8NUzE",
-        "categoria":{
-           "nombre":"inovaccion",
-            "color":"FFBA05"
-        }
-    },
-    {
-        "id":"13",
-        "title":"Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT",
-        "enlace":"https://www.youtube.com/watch?v=cfvFBAB9TIE",
-        "categoria":{
-            "nombre":"inovaccion",
-            "color":"FFBA05"
-        }
-    },
-    {
-        "id":"14",
-        "title":"Explorando #SheetGPT: Revelando su Funcionalidad y Aplicaciones",
-        "enlace":"https://www.youtube.com/watch?v=0kkeYthTGr0",
-        "categoria":{
-            "nombre":"inovaccion",
-            "color":"FFBA05"
-        }
-    }
-    
+[
+  {
+    "descripcion": "",
+    "id": "1",
+    "title": "Cuándo usar let, var y const? #AluraMás",
+    "enlace": "https://www.youtube.com/watch?v=PztCEdIJITY",
+    "capa": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+    "categoria": "frontend"
+  },
+  {
+    "descripcion": "",
+    "id": "2",
+    "title": "¿Qué es JavaScript?",
+    "enlace": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+    "capa": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
+    "categoria": "frontend"
+  },
+  {
+    "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+    "id": "3",
+    "title": "Equipo Front End #AluraMás",
+    "enlace": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+    "capa": "https://i.ytimg.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
+    "categoria": "frontend"
+  },
+  {
+    "descripcion": "",
+    "id": "4",
+    "title": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+    "enlace": "https://www.youtube.com/watch?v=QjOWz9avkg8",
+    "capa": "https://i.ytimg.com/vi/QjOWz9avkg8/maxresdefault.jpg",
+    "categoria": "frontend"
+  },
+  {
+    "descripcion": "",
+    "id": "5",
+    "title": "¿Por qué utilizar React?",
+    "enlace": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+    "capa": "https://i.ytimg.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+    "categoria": "frontend"
+  },
+  {
+    "descripcion": "",
+    "id": "6",
+    "title": "Spring Framework. ¿Qué es ? #AluraMás",
+    "enlace": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+    "capa": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+    "categoria": "backend"
+  },
+  {
+    "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+    "id": "7",
+    "title": "¿Qué es SQL y NoSQL?",
+    "enlace": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+    "capa": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+    "categoria": "backend"
+  },
+  {
+    "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+    "id": "8",
+    "title": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+    "enlace": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+    "capa": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+    "categoria": "backend"
+  },
+  {
+    "descripcion": "",
+    "id": "9",
+    "title": "La magia detrás de Java #aluramás",
+    "enlace": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+    "capa": "https://i.ytimg.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
+    "categoria": "backend"
+  },
+  {
+    "descripcion": "",
+    "id": "10",
+    "title": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+    "enlace": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+    "capa": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+    "categoria": "backend"
+  },
+  {
+    "descripcion": "",
+    "id": "11",
+    "title": "¿Qué son las Soft Skills?",
+    "enlace": "https://www.youtube.com/watch?v=vhwspfvI52k",
+    "capa": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+    "categoria": "inovacion"
+  },
+  {
+    "descripcion": "",
+    "id": "12",
+    "title": "7 Soft Skills más deseadas por las empresas #AluraMás",
+    "enlace": "https://www.youtube.com/YhR7Zp8NUzE?si=MarAUaxLTcLiD9n8",
+    "capa": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+    "categoria": "inovacion"
+  },
+  {
+    "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+    "id": "13",
+    "title": "¿Qué son las metodologias ágiles?",
+    "enlace": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+    "capa": "https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+    "categoria": "inovacion"
+  }
 ]
-}
