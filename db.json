@@ -41,7 +41,7 @@
       "id": "3",
       "title": "Equipo Front End #AluraMás",
       "enlace": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
-      "capa": "https://i.ytimg.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
+      "capa": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
       "categoria": "frontend"
     },
     {
@@ -106,7 +106,7 @@
       "title": "¿Qué son las Soft Skills?",
       "enlace": "https://www.youtube.com/watch?v=vhwspfvI52k",
       "capa": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
-      "categoria": "innovacion"
+      "categoria": "inovacion"
     },
     {
       "descripcion": "",
@@ -114,7 +114,7 @@
       "title": "7 Soft Skills más deseadas por las empresas #AluraMás",
       "enlace": "https://www.youtube.com/YhR7Zp8NUzE?si=MarAUaxLTcLiD9n8",
       "capa": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
-      "categoria": "innovacion"
+      "categoria": "inovacion"
     },
     {
       "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
@@ -122,7 +122,7 @@
       "title": "¿Qué son las metodologias ágiles?",
       "enlace": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
       "capa": "https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
-      "categoria": "innovacion"
+      "categoria": "inovacion"
     }
   ]
 }
